@@ -2,8 +2,6 @@ Grok Projects CLI – Website-Parity Coding Companion (Enhanced)
 A fully featured command-line interface for managing isolated coding projects and interacting with xAI’s Grok models.
 Designed to give you website-level capabilities in your terminal — project isolation, artifact management, batch automation, and rich chat with context-aware code analysis.
 
-![Grok Projects CLI Architecture](GrokProjects_Architecture.png)
-
 ✨ Features
 Project Isolation – Each project has its own sandbox; Grok only sees files in the current project.
 
@@ -107,3 +105,5 @@ API key validation on startup.
 No ambient filesystem access outside the current project.
 
 Full conversation and file history for auditability.
+
+![Grok Projects CLI Architecture](GrokProjects_Architecture.png)
