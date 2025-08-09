@@ -116,7 +116,7 @@ Grok_Projects/
 
 ## 📊 Architecture Diagram
 
-![Grok Projects CLI Architecture](assets/grok_cli_architecture.png)
+![Grok Projects CLI Architecture](GrokProjects_Architecture.png)
 
 ---
 
